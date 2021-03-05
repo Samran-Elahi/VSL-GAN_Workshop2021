@@ -9,3 +9,6 @@ Contains the solution to the coding exercise
 
 ### GANs(1).pptx
 These are the slides used in the workshop
+
+### LINK TO THE RECORDED WORKSHOP 
+https://drive.google.com/file/d/19Gfas_YXXyGfwTtOEt9C58_fW272g2wa/view?usp=sharing
