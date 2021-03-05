@@ -7,3 +7,5 @@ This is the coding exercise I gave during the workshop
 ### Solution_GAN_task 
 Contains the solution to the coding exercise
 
+### GANs(1).pptx
+These are the slides used in the workshop
